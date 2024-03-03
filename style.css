@@ -1,0 +1,82 @@
+
+body{
+    background-color:white;
+    padding: 0px;
+    margin: 0px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 100px;
+    color: white
+}
+
+header{
+    color: rgb(223, 143, 174);
+    margin-left: 27px;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+h1{
+    background-color: rgb(223, 143, 174) ;
+    margin: 0px;
+    padding: 0px;
+    border-radius: 7px;
+}
+
+ul{
+    list-style-type: none;
+}
+.foto{
+    width: 120px;
+    border-radius: 50%;
+    margin-left: 120px;
+
+}
+
+.logo{
+width: 25px;
+border-radius: 50%;
+background-color: blue;
+}
+.loga{
+    margin-left: 40px;
+}
+
+.tucne{font-style: italic;
+margin-top: 2px;
+font-size: 18px;}
+.bezodsazeni{
+    padding-left: 0px
+}
+h2{
+    margin-bottom: 5px;
+}
+
+.moto{
+    font-style: italic;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.kontejner{
+display: flex;
+flex-direction: row;
+}
+
+.prvni_sloupec{
+    background-color: rgb(223, 143, 174);
+    width:30%;
+    padding: 30px;
+    color: white
+}
+.druhy_sloupec{
+    background-color: rgb(92, 82, 99);
+    width: 70%;
+    padding: 30px;
+}
+
+.vpravo{
+}
+
+footer{
+    color: pink;
+}
